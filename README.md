@@ -70,7 +70,3 @@ Response:
 
 ---
 
-## Author
-
-**Likitha Vankadoth** — Master of Data Science, Macquarie University
-[GitHub](https://github.com/Likithaa07)
